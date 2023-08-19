@@ -1,2 +1,2 @@
 # smartCityProject
-A web-based application
+The Smart City project is a web-based software application built to store all the essential details of a city. Cities and urban areas witness a massive wave of people coming from every corner in search of jobs, education, and even a better lifestyle. In the initial days after the move, people don’t know the main facilities, attractions, and services offered in the city. The smart city project seeks to address that by creating an integrated platform to store essential and related information to guide newcomers in a city.
