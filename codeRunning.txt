@@ -3,3 +3,8 @@ Copy the code of each class/file and paste it in a seperate file in the project 
 Similary create a file for main as well
 Paste the image in the project folder
 Then run the main
+
+#Note:
+  MySql code is also integrated in the java code.
+  For that MySql workbench will be needed.
+  Make a database in it. Then enter the credentials of the database in the "Connection" method of each class.
