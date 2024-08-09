@@ -7,4 +7,4 @@ Then run the main
 #Note:
   MySql code is also integrated in the java code.
   For that MySql workbench will be needed.
-  Make a database in it. Then enter the credentials of the database in the "Connection" method of each class.
+  Make a database in it. Then enter the credentials of the database in the "createConnection" method of each class.
